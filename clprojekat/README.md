@@ -21,7 +21,7 @@ List of products
 
 Incanter- How exchange rate affects on product's price
 
-<img width="249" alt="incanter" src="https://cloud.githubusercontent.com/assets/8823815/10270629/dcc7f9a4-6af7-11e5-8dc6-98246deb49d3.png">
+<img width="251" alt="incanter" src="https://cloud.githubusercontent.com/assets/8823815/10270764/795ab9b0-6afc-11e5-9f66-64610b84504d.png">
 
 ## Setup
 Download and install Leiningen: http://leiningen.org/
