@@ -1,7 +1,7 @@
 # ProductsClojureApp
 
 ProductsClojureApp is Clojure application, that helps you managing products. User must be logged in first. User can add new products, delete it and see how exchange rate affects on product's price.(It uses Incanter library).
-The application calls REST API https://currencylayer.com/documentation to change USD to EUR and gets exchange rate. 
+The application calls REST API https://currencylayer.com/documentation to change USD to EUR and gets exchange rate for specific year. 
 The application automaticaly inserts dummy data in database about products and one user.
 
 ## Usage
