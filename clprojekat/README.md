@@ -17,6 +17,10 @@ List of products
 
 <img width="697" alt="products" src="https://cloud.githubusercontent.com/assets/8823815/10270601/e53c1058-6af6-11e5-9447-a7416e989bfe.png">
 
+Incanter- How exchange rate affects on product's price
+
+<img width="249" alt="incanter" src="https://cloud.githubusercontent.com/assets/8823815/10270629/dcc7f9a4-6af7-11e5-8dc6-98246deb49d3.png">
+
 
 ## License
 
