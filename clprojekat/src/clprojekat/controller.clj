@@ -91,7 +91,7 @@
     rows  (mapv #(mapv % columns) result)]
      print rows))
 
-(def productPrice (sel productDataSet :cols 4))
+(def productPrice (sel productDataSet :cols 6))
 (def productExRate (sel productDataSet :cols 5))
 
 (defn product-scatter-plot [X Y]
