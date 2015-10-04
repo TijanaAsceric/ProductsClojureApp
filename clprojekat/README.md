@@ -7,8 +7,7 @@ The application automaticaly inserts dummy data in database about products and o
 ## Usage
 
 Login:
-Username: admin
-<br></br>
+Username: admin<br/>
 Password: admin
 <img width="708" alt="login" src="https://cloud.githubusercontent.com/assets/8823815/10270561/9ac8fab4-6af5-11e5-9b90-e068d99a564b.png">
 
