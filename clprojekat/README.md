@@ -1,14 +1,15 @@
-# clprojekat
+# ProductsClojureApp
 
-A Clojure library designed to ... well, that part is up to you.
+ProductsClojureApp is Clojure application, that helps you managing products. User must be logged in first. User can add new products, delete it and see how exchange rate affects on product's price.(It uses Incanter library).
 
 ## Usage
 
-FIXME
+Login:
+Username: admin
+Password:admin
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 Tijana Asceric tijana.asceric@gmail.com
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License.
