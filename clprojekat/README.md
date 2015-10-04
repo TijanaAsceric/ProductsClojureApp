@@ -6,7 +6,7 @@ The application automaticaly inserts dummy data in database about products and o
 
 ## Usage
 
-Login:
+Login:  
 Username: admin  
 Password: admin
 
